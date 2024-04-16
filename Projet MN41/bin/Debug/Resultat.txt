@@ -1,0 +1,35 @@
+Deplacement de chaque noeuds (en mètre)
+   X           Y
+N1   0.00000000  0.00000000
+N2   0.00000000  0.00000000
+N3   0.00326235  0.00000000
+N4   0.00052259  0.00200070
+N5   0.00052259  -0.00200070
+N6   -0.00073906  0.00000000
+N7   0.00000000  0.00000000
+N8   0.00000000  0.00000000
+
+Force appliqués a chaque noeuds (en newton)
+   Fx         Fy
+N1   -2.500000  2.038252
+N2   -2.500000  -2.038252
+N3   5.000000  0.000000
+N4   0.000000  0.000000
+N5   0.000000  0.000000
+N6   0.000000  0.000000
+N7   0.000000  0.461748
+N8   0.000000  -0.461748
+
+Tension de chaque barre (en newton)
+E1   0.4706 N  (traction)
+E2   2.9057 N  (traction)
+E3  -0.6032 N  (compression)
+E4   2.9057 N  (traction)
+E5  -0.6032 N  (compression)
+E6   0.4706 N  (traction)
+E7  -0.4529 N  (compression)
+E8   0.6764 N  (traction)
+E9   0.6542 N  (traction)
+E10   0.6764 N  (traction)
+E11   0.6542 N  (traction)
+E12  -0.4529 N  (compression)

@@ -1,0 +1,8 @@
+C:\Axel\Ecole\UTBM\GMC01\MN41\Projet MN41\bin\Debug\Projet MN41.exe.config
+C:\Axel\Ecole\UTBM\GMC01\MN41\Projet MN41\bin\Debug\Projet MN41.exe
+C:\Axel\Ecole\UTBM\GMC01\MN41\Projet MN41\bin\Debug\Projet MN41.pdb
+C:\Axel\Ecole\UTBM\GMC01\MN41\Projet MN41\obj\Debug\Projet MN41.csproj.AssemblyReference.cache
+C:\Axel\Ecole\UTBM\GMC01\MN41\Projet MN41\obj\Debug\Projet MN41.csproj.SuggestedBindingRedirects.cache
+C:\Axel\Ecole\UTBM\GMC01\MN41\Projet MN41\obj\Debug\Projet MN41.csproj.CoreCompileInputs.cache
+C:\Axel\Ecole\UTBM\GMC01\MN41\Projet MN41\obj\Debug\Projet MN41.exe
+C:\Axel\Ecole\UTBM\GMC01\MN41\Projet MN41\obj\Debug\Projet MN41.pdb
